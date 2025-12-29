@@ -1,2 +1,7 @@
-# github.io
-An independent, in-depth review of the AI Automation Society Plus Skool community, covering pricing, features, pros, cons, and whether it’s worth joining.
+# Skool Community Reviews
+
+This repository hosts a static website that publishes independent reviews and comparisons of paid Skool communities.
+
+The goal is to help users understand pricing, pros and cons, and alternatives before joining a community.
+
+Some links on the site may be affiliate links.
